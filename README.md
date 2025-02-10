@@ -4,6 +4,8 @@
 
 ## Binary classifier
 
+https://github.com/prateekjoshi565/Fine-Tuning-BERT/blob/master/Fine_Tuning_BERT_for_Spam_Classification.ipynb
+
 ## Multi class classifier
 https://github.com/Dirkster99/PyNotes/tree/master/Transformers/LocalModelUsage_Finetuning
 
